@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Polidrom Sayılar\Kod S Polidrom Sayılar\bin\Debug\Kod S Polidrom Sayılar.exe
+C:\Users\mrt_b\Desktop\Kod S Polidrom Sayılar\Kod S Polidrom Sayılar\bin\Debug\Kod S Polidrom Sayılar.pdb
+C:\Users\mrt_b\Desktop\Kod S Polidrom Sayılar\Kod S Polidrom Sayılar\obj\x86\Debug\Kod S Polidrom Sayılar.exe
+C:\Users\mrt_b\Desktop\Kod S Polidrom Sayılar\Kod S Polidrom Sayılar\obj\x86\Debug\Kod S Polidrom Sayılar.pdb
